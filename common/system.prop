@@ -41,7 +41,7 @@ persist.vendor.radio.mbn_wait_s=60
 persist.vendor.radio.redir_party_num=1
 
 # Wi-Fi
-ro.boot.wificountrycode=US
+ro.boot.wificountrycode=AU
 
 # Others
 ril.subscription.types=RUIM
